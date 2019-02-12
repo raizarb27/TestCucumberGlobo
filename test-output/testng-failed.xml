@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="8" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test name="test_QA_Cucumber_1">
+    <packages>
+      <package name="passos"/>
+    </packages>
+  </test> <!-- test_QA_Cucumber_1 -->
+</suite> <!-- Failed suite [Suite] -->
