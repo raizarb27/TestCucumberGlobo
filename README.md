@@ -7,7 +7,7 @@ Teste simples com chrome usando cucumber com java para a pagina Newsletters.
 ### 1º Componentes necessários para executar:
 
 * Java (versão 1.8.201 ou 1.8.181)
-* Neon
+* Node
 * Eclipse Oxigen
 * Selenium (versão 3.11.0)
 * Maven 
